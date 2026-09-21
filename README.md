@@ -5,3 +5,4 @@ Dedicated public repository for exploring and unlocking GitHub profile achieveme
 - Step 2: Implement co-authored pull requests.
 - Milestone step 4: automated pipeline verification.
 - Milestone step 5: automated pipeline verification.
+- Milestone step 6: automated pipeline verification.
