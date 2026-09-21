@@ -12,3 +12,4 @@ Dedicated public repository for exploring and unlocking GitHub profile achieveme
 - Milestone step 10: automated pipeline verification.
 - Milestone step 11: automated pipeline verification.
 - Milestone step 12: automated pipeline verification.
+- Milestone step 13: automated pipeline verification.
