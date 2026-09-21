@@ -8,3 +8,4 @@ Dedicated public repository for exploring and unlocking GitHub profile achieveme
 - Milestone step 6: automated pipeline verification.
 - Milestone step 7: automated pipeline verification.
 - Milestone step 8: automated pipeline verification.
+- Milestone step 9: automated pipeline verification.
